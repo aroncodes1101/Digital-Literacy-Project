@@ -22,13 +22,13 @@ This project focuses on understanding digital literacy and its importance in tod
 ### 🟦 Task 2 – Digital Portfolio
 - Created and updated professional profiles  
 - Platforms:
-  - LinkedIn
   - Kaggle 
-  - GitHub  
+  - GitHub
+  - LinkedIn
 
 **Files:**
-- `task-2-portfolio/Github.png`
 - `task-2-portfolio/Kaggle.png`
+- `task-2-portfolio/Github.png`
 - `task-2-portfolio/LinkedIn.png`
 
 ---
