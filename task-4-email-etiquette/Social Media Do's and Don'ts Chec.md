@@ -1,6 +1,6 @@
 # Social Media Do's and Don'ts Checklist
 
-**Name:** Aron Smith Thomas
+**Name:** Aron Smith Thomas\
 **Reg No:** 25BCG10035
 
 ------------------------------------------------------------------------
