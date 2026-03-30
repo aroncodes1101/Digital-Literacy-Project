@@ -40,12 +40,12 @@ This project focuses on understanding digital literacy and its importance in tod
 - Collected and analyzed responses  
 
 **Files:**
-- `task-3/hackerrank-profile.png`
-- `task-3/hackerrank-problems.png`
-- `task-3/hackerrank-problem-solving-badge.png`
-- `task-3/Google-form.png`
-- `task-3/responses-summary.png`
-- `task-3/responses-sheet.png`
+- `task-3-platforms/hackerrank-profile.png`
+- `task-3-platforms/hackerrank-problems.png`
+- `task-3-platforms/hackerrank-problem_solving-python_basic certificate.pdf`
+- `task-3-platforms/Google-form.png`
+- `task-3-platforms/Responses-summary.png`
+- `task-3-platforms/Responses-sheet.png`
 
 ---
 
@@ -56,8 +56,8 @@ This project focuses on understanding digital literacy and its importance in tod
 - Created a social media usage checklist  
 
 **Files:**
-- `task-4/Professional-Emails.pdf`
-- `task-4/social-media-checklist.md`
+- `task-4-email-etiquette/Professional-Emails.pdf`
+- `task-4-email-etiquette/social-media-checklist.md`
 
 ---
 
@@ -66,8 +66,8 @@ This project focuses on understanding digital literacy and its importance in tod
 - Created a prevention checklist for online safety  
 
 **Files:**
-- `task-5/casestudy.md`
-- `task-5/prevention-checklist.md`
+- `task-5-cybercrime awareness/casestudy.md`
+- `task-5-cybercrime awareness/prevention-checklist.md`
 
 ---
 
