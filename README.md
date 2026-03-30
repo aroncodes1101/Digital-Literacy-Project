@@ -88,7 +88,8 @@ This project focuses on understanding digital literacy and its importance in tod
 
 ## 🛠 Tools & Platforms Used
 - Canva  
-- GitHub  
+- GitHub
+- Kaggle 
 - LinkedIn  
 - HackerRank  
 - Google Forms  
